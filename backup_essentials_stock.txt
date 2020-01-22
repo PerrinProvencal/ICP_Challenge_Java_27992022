@@ -1,0 +1,10 @@
+Bread   50     GHC  0.6
+Digestive Biscuit   20     GHC  9.0
+Caprisun   40     GHC  3.5
+Meat Pie   20     GHC  3.0
+Sausage Rolls   25     GHC  2.5
+Plantain Chips   30     GHC  1.5
+Banana   45     GHC  0.9
+Groundnuts   50     GHC  1.0
+Cake   20     GHC  10.0
+Doughnuts   30     GHC  5.0
